@@ -17,4 +17,4 @@ In total we have 1600 reviews, the task is to classify review either as  truthfu
 N.B: There is a strong distributional difference between informative and imaginative word,  the former typically consists of more nouns, adjectives, prepositions, determiners, and coordinating conjunctions, while the latter includes more verbs, adverbs, pronouns, and pre-determiners. Deceptive opinions contain more superlatives  since deceptive writing often contains exaggerated language.
 
 
-## We make use of Term Frequency Inverse document frequency(TDIF) VECTORIZER and Support Vector Machine algorithm.
+## We made use of Term Frequency Inverse document frequency(TDIF) VECTORIZER and Support Vector Machine algorithm.
